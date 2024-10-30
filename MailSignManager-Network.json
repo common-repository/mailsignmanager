@@ -1,0 +1,47 @@
+{
+	"Usage": "NetworkList",
+	"Version": "0.1",
+	"Date": "2016-08-30",
+	"List": [
+    {
+        "Id":"facebook",
+        "Name":"Facebook",
+				"Icon":"facebook.png"
+    },
+		{
+				"Id":"twitter",
+				"Name":"Twitter",
+				"Icon":"twitter.png"
+		},
+		{
+				"Id":"googleplus",
+				"Name":"Google +",
+				"Icon":"googleplus.png"
+		},
+		{
+				"Id":"instagram",
+				"Name":"Instagram",
+				"Icon":"instagram.png"
+		},
+		{
+				"Id":"linkedin",
+				"Name":"LinkedIn",
+				"Icon":"linkedin.png"
+		},
+		{
+				"Id":"youtube",
+				"Name":"Youtube",
+				"Icon":"youtube.png"
+		},
+		{
+				"Id":"wordpress",
+				"Name":"WordPress",
+				"Icon":"wordpress.png"
+		},
+		{
+				"Id":"vimeo",
+				"Name":"Vimeo",
+				"Icon":"vimeo.png"
+		}
+		]
+}

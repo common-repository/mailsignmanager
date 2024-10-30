@@ -1,0 +1,21 @@
+/*
+Page Use: StyleSheet of plugin MailSignManager
+Plugin URI:
+Description: Page StyleSheet du plugin MailSignManager
+Version: 0.8
+Author: Sylvain Gendrot
+Author URI:
+*/
+@CHARSET "ISO-8859-1";
+
+
+
+
+/* The button image */
+.MailSignManagerPlugin_NetworkButton {
+  width: 20px;
+  height: 20px;
+  background: url('img/delete.png');
+  border: none;
+  background-size: 100%;
+}
